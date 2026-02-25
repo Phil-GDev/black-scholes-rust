@@ -29,6 +29,9 @@ The terminal implements the Black-Scholes-Merton model with adjustments for the 
    git clone [https://github.com/YOUR_USERNAME/black-scholes-rust.git](https://github.com/YOUR_USERNAME/black-scholes-rust.git)
 3. Run the project: cargo run --release
 
+## ⚠️ Disclaimer
+This software is for **educational and research purposes only**. It does not constitute financial advice, investment recommendation, or an offer to buy/sell securities. The calculations provided by this terminal are based on theoretical models (Black-Scholes) and historical data, which do not guarantee future results. Always consult a certified financial professional before making investment decisions.
+
 
 Roadmap
 [ ] Implementation of Implied Volatility calculation (Newton-Raphson Method).
